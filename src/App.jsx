@@ -1,10 +1,23 @@
-import React from 'react'
+import About from "./components/About";
+import Hero from "./components/Hero";
+import NavBar from "./components/Navbar";
+import Episodes from "./components/Episodes.jsx";
+import Story from "./components/Hosts.jsx";
+import Contact from "./components/Contact";
+import Footer from "./components/Footer";
 
-const App = () => {
-    return (
-        <main>
-            <h1 className="text-5xl text-orange-500 font-bold"> Welcome to The Waw Podcast</h1>
-        </main>
-    )
+function App() {
+  return (
+    <main className="relative min-h-screen w-screen overflow-x-hidden">
+      <NavBar />
+      <Hero />
+      <About />
+      <Episodes />
+      <Story />
+      <Contact />
+      <Footer />
+    </main>
+  );
 }
-export default App
+
+export default App;

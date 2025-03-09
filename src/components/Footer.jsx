@@ -29,12 +29,11 @@ const Footer = () => {
         </div>
 
         <a
-            href="https://github.com/karanlvm"
             target="_blank"
             rel="noopener noreferrer"
             className="text-center text-sm font-light hover:underline md:text-right"
         >
-          Created by Karan Vasudevamurthy
+          Last Updated: 3/9/25 4:59AM CST
         </a>
 
       </div>

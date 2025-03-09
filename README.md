@@ -2,7 +2,7 @@
 # TheWaWPodcast
 
 A website that is built for TheWaWPodcast.
-You can find the podcast at ![Spotify](- [@karanlvm](https://www.github.com/karanlvm))
+You can find the podcast at ![Spotify] (https://open.spotify.com/show/0TQuBhXjUOWEiEt3oFpDLO)
 ## Authors
 
 - [@karanlvm](https://www.github.com/karanlvm)

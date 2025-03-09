@@ -12,6 +12,3 @@ You can find the podcast at ![Spotify](- [@karanlvm](https://www.github.com/kara
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
-
-
-

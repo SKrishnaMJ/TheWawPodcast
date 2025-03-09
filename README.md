@@ -12,6 +12,3 @@ You can find the podcast at [Spotify](https://open.spotify.com/show/0TQuBhXjUOWE
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
-
-
-

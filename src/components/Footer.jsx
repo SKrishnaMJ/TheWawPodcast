@@ -29,12 +29,12 @@ const Footer = () => {
         </div>
 
         <a
-            href="https://github.com/karanlvm/TheWaWPodcast"
+            href="https://karanlvm.github.io/portfolio"
             target="_blank"
             rel="noopener noreferrer"
             className="text-center text-sm font-light hover:underline md:text-right"
         >
-          Source code available on Github
+          Created by Karan
         </a>
 
       </div>
